@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sachin Negi 👋
+# Hi, I'm Sachin Singh Negi 👋
 
 ### Computer Science Engineering | Software Development | AI/ML
 
